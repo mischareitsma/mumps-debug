@@ -1,0 +1,9 @@
+# Temp dirs and files
+tmp/
+*.tmp
+
+# Archives
+
+*.tar
+*.tar.gz
+*.zip
